@@ -1,4 +1,4 @@
-![logo](https://github.com/tejaswiniparitala1415/Profile/blob/main/Vishal%20Bakshi%20(3).gif)
+![logo](https://github.com/tejaswiniparitala1415/tejaswiniparitala1415/blob/main/Teju%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Teju Paritala</h1>
 <h3 align="center">I am a Passionate Computer Science Student @Pace University</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
