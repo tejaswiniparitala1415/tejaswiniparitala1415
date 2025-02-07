@@ -1,5 +1,5 @@
 ![logo](https://github.com/tejaswiniparitala1415/tejaswiniparitala1415/blob/main/Teju%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Teju Paritala</h1>
+<h1 align="center">Hi 👋, I'm Tejaswini Paritala</h1>
 <h3 align="center">I am a Passionate Computer Science Student @Pace University</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **tp77290n@pace.Edi**
+- 📫 How to reach me **tp77290n@pace.Edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
